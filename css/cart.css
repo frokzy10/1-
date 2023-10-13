@@ -42,7 +42,7 @@ header .totalQuantity {
 }
 .listProduct {
   display: grid;
-  min-width: 450px;
+  /* min-width: 450px; */
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   text-align: center;
